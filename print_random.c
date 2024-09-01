@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+// Kostandin Jorgji | Repo link: https://github.com/tug74295/3207-Lab-Introduction_F24-
+char randchar();
 
 int main()
 {
